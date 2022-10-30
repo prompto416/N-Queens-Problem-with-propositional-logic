@@ -1,6 +1,7 @@
 # N-Queens-Problem-with-propositional-logic
 
 **ask for input**
+
 ![](image_2022-10-31_044525999.png)
 
 
